@@ -27,5 +27,5 @@ Open http://localhost:3000
 
 ---
 
-**Built by:** Farhan Mendhro  
+**Containerized by:** Farhan Mendhro  
 **Docker Hub:** farhan249/weather-app
