@@ -13,8 +13,8 @@ Cloned from: [https://github.com/bmorelli25/simple-nodejs-weather-app.git]
 ## Quick Start
 
 ```bash
-docker pull farhan249/weather-app
-docker run -p 3000:3000 farhanmendhro/weather-app
+docker pull farhan249/node-weather-app
+docker run -p 3000:3000 farhan249/node-weather-app
 ```
 
 Open http://localhost:3000
