@@ -28,4 +28,4 @@ Open http://localhost:3000
 ---
 
 **Containerized by:** Farhan Mendhro  
-**Docker Hub:** farhan249/weather-app
+**Docker Hub:** farhan249/node-weather-app
